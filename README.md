@@ -7,4 +7,4 @@
 -  &nbsp; Aayushi Jain (01)
 -  &nbsp; Agam Dangi (07)
 -  &nbsp; Anusha Pahariya (19)
--  &nbsp; An applicatiob built using react native to find jobs of your ease
+-  &nbsp; An application built using react native to find jobs of your ease
