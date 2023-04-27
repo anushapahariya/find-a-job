@@ -1,7 +1,10 @@
-This is our attempt to ease the job finding process as the part of our SSL Project.
-Batch 1 
-SSL project 
-Find your job
-Asyushi Jain (01)
-Agam Dangi (07)
-Anusha Pahariya (19)
+<h3> 👨🏻‍💻 About Project </h3>
+ 
+-  &nbsp; This is our attempt to ease the job finding process as the part of our SSL Project.
+-  &nbsp; Batch 1 
+-  &nbsp; SSL project 
+-  &nbsp; Find your job
+-  &nbsp; Aayushi Jain (01)
+-  &nbsp; Agam Dangi (07)
+-  &nbsp; Anusha Pahariya (19)
+-  &nbsp; An applicatiob built using react native to find jobs of your ease
